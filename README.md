@@ -1,2 +1,2 @@
 # practice-cricket-client
-Live link: <https://practice-cricket-client.netlify.app/>
+Live link: <https://cricket-assesment.netlify.app/>
