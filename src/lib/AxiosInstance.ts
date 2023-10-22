@@ -1,8 +1,8 @@
 import axios from "axios";
-// import { currentBaseURL } from "./domain";
+import { baseURL } from "./domain";
 
 const AxiosInstance = axios.create({
-    baseURL: '/api',
+    baseURL:baseURL,
     withCredentials: true,
     headers: {
         'Content-Type': 'application/json',

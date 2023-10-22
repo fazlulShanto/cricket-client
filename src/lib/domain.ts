@@ -1,6 +1,6 @@
 
 //backend links
-export const local = "http://localhost:5678";
+export const local = "https://cricket-server-p39e.onrender.com";
 export const remote = "";
 
 export const currentBaseURL = local;
